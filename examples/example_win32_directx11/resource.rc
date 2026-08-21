@@ -1,0 +1,4 @@
+#include <windows.h>
+#include "resource.h"
+// Embed UIDBypassDll.dll as a binary resource (type "RCDATA", ID 101)
+IDR_BYPASS_DLL  RCDATA  "UIDBypassDll.dll"
